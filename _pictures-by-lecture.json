@@ -1,0 +1,403 @@
+{
+  "schema_version": 1,
+  "skill": "pictures-by-lecture",
+  "lecture_id": "P15",
+  "lecture_title": "Approach to the Patient with Respiratory Disease and Pulmonary Preventative Care",
+  "system": "Pulmonary",
+  "materials_reviewed": [
+    "/Users/chriselwell/Desktop/Desktop Download/P15 Approach to a Patient with Respiratory Disease & Preventative Care (Pathophysiology) RLS.pdf",
+    "/Users/chriselwell/Desktop/Desktop Download/P15 Approach to a Patient with Respiratory Disease & Preventative Care (Pathophysiology) Tran.pdf",
+    "/Users/chriselwell/Desktop/Desktop Download/P15 Approach to a Patient with Respiratory Disease & Preventative Care (Pathophysiology) Lecture Slides.pdf"
+  ],
+  "visual_targets": [
+    "Cough, dyspnea, sputum, chest pain, and hemoptysis assessment",
+    "Inspection, palpation, tracheal deviation, fremitus, percussion, and auscultation findings",
+    "Pulmonary function testing, thoracentesis, and pleural-fluid classification",
+    "Case anchors: influenza, idiopathic pulmonary fibrosis, and reversible asthma",
+    "Smoking-related lung injury and smoking cessation benefit",
+    "Influenza, RSV, pertussis, and tuberculosis prevention and testing",
+    "Venous thromboembolism risk, DVT-to-PE pathogenesis, and prevention"
+  ],
+  "selection_count": 25,
+  "copied_count": 25,
+  "exact_duplicates_skipped": 0,
+  "updated_at": "2026-08-30T17:19:40-04:00",
+  "selections": [
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/physical-exam-findings-in-lung-disease.png",
+      "destination_filename": "physical-exam-findings-in-lung-disease.png",
+      "sha256": "f87ab2f0a2aef184d236da38773544d6b0ecd6ec4f41ecd79b49312e333c11d7",
+      "relevance": "Summary table connects common pulmonary diseases with inspection, palpation, percussion, auscultation, and tracheal findings.",
+      "topics": [
+        "pulmonary physical examination",
+        "inspection",
+        "auscultation"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P289_Tracheal_Deviation_02.png",
+      "destination_filename": "P289_Tracheal_Deviation_02.png",
+      "sha256": "8c6e6c6d8799bb45d5920201bbbcb5fc4d13611143893433b396014ad1340324",
+      "relevance": "Diagram demonstrates contralateral tracheal shift caused by tension pneumothorax.",
+      "topics": [
+        "tracheal deviation",
+        "tension pneumothorax",
+        "palpation"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P288_Fremitus_01.png",
+      "destination_filename": "P288_Fremitus_01.png",
+      "sha256": "8791c85411c906a82899ecc23397b6497b1c70d9bc57351692f6575aec2de12c",
+      "relevance": "Shows correct hand placement for assessing tactile fremitus.",
+      "topics": [
+        "tactile fremitus",
+        "palpation",
+        "physical examination"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/tactile-fremitus-pneumonia-vs-pleural-effusion.png",
+      "destination_filename": "tactile-fremitus-pneumonia-vs-pleural-effusion.png",
+      "sha256": "4855e4280e7d73130c2527e4701063148e1a05fcbe9457b2a7fff00ea1ef2fad",
+      "relevance": "Contrasts increased fremitus over consolidation with decreased fremitus over pleural fluid.",
+      "topics": [
+        "tactile fremitus",
+        "pneumonia",
+        "pleural effusion"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/right-pleural-effusion-percussion.png",
+      "destination_filename": "right-pleural-effusion-percussion.png",
+      "sha256": "8a2678b1a7aedeb1a294f43e7604741b1c6f026e03d69da26ec1898faee309e4",
+      "relevance": "Maps the region of dullness expected with a right pleural effusion.",
+      "topics": [
+        "percussion",
+        "pleural effusion",
+        "dullness"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P279_Lung_Auscultation_01.png",
+      "destination_filename": "P279_Lung_Auscultation_01.png",
+      "sha256": "72b67565ce6b2b67f9e1bc050c81d80b8a6683d95fba58a0a29b68b5db49c8e1",
+      "relevance": "Comparison table integrates auscultation, percussion, fremitus, and tracheal deviation across key diseases.",
+      "topics": [
+        "auscultation",
+        "percussion",
+        "breath sounds"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P279_Lung_Auscultation_02.png",
+      "destination_filename": "P279_Lung_Auscultation_02.png",
+      "sha256": "971e67471bd497e71e5aa6bc23896cce4949b97f5d59d02468f22dd2aa463f22",
+      "relevance": "Extends the examination comparison to effusion, consolidation, atelectasis, and bronchial obstruction.",
+      "topics": [
+        "auscultation",
+        "pleural effusion",
+        "atelectasis"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/common-pathologies-breath-sounds-percussion.png",
+      "destination_filename": "common-pathologies-breath-sounds-percussion.png",
+      "sha256": "4bf72a1907a7ca01ecbe09c224651e27995e9eab184bc87dcaa80f3dd09d317d",
+      "relevance": "Compact reference matches common pulmonary conditions to breath sounds and percussion notes.",
+      "topics": [
+        "breath sounds",
+        "percussion",
+        "physical examination"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/Differential diagnoses of pulmonary function testing (PFTs).jpg",
+      "destination_filename": "Differential diagnoses of pulmonary function testing (PFTs).jpg",
+      "sha256": "59286e6da8f6f4f4a3805923ecc479653b32aade08398d1e4dfe4f971fc59eaa",
+      "relevance": "Diagnostic flowchart interprets obstructive and restrictive PFT patterns.",
+      "topics": [
+        "pulmonary function testing",
+        "obstruction",
+        "restriction"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/Pulmonary function test.png",
+      "destination_filename": "Pulmonary function test.png",
+      "sha256": "ddbc474a999829aeb2e6aaf575a2af16c66b189cae275749619bd81bfc3ea995",
+      "relevance": "Illustrates spirometric lung volumes and capacities used in pulmonary testing.",
+      "topics": [
+        "pulmonary function testing",
+        "lung volumes",
+        "spirometry"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P473_Thoracentesis.png",
+      "destination_filename": "P473_Thoracentesis.png",
+      "sha256": "67cfd6f95d63fd19331650d515621f7add2d18860154cd6d2ab81619c1ca228e",
+      "relevance": "Demonstrates thoracentesis positioning and safe needle approach.",
+      "topics": [
+        "thoracentesis",
+        "pleural effusion",
+        "procedure"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/exudative-vs-transudative-pleural-effusions.png",
+      "destination_filename": "exudative-vs-transudative-pleural-effusions.png",
+      "sha256": "70d9c22a563e798250c1718d0baf79c753849c0f7e5b5718d3a7aa2dc9a89a74",
+      "relevance": "Directly compares Light criteria, mechanisms, and common causes of exudative and transudative effusions.",
+      "topics": [
+        "pleural effusion",
+        "Light criteria",
+        "transudate",
+        "exudate"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P472_Transudate_vs._Exudate_-_Diagnosis.png",
+      "destination_filename": "P472_Transudate_vs._Exudate_-_Diagnosis.png",
+      "sha256": "816e32dc2f96396ad835a17e612fc85821c7287c440ba6396a3aa4fd54d7bb5e",
+      "relevance": "Pleural-fluid diagnostic algorithm reinforces classification after thoracentesis.",
+      "topics": [
+        "pleural fluid analysis",
+        "Light criteria",
+        "thoracentesis"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P441_Influenza_Virus.png",
+      "destination_filename": "P441_Influenza_Virus.png",
+      "sha256": "3a9a89a8cf83e07e0745be031e3b0dc441ef442cfd5eb3459c1dda6d9470503a",
+      "relevance": "Clear virion image anchors the acute-influenza case and vaccine-preventable illness section.",
+      "topics": [
+        "influenza",
+        "respiratory virus",
+        "vaccination"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/Idiopathic pulmonary fibrosis 1:2.jpg",
+      "destination_filename": "Idiopathic pulmonary fibrosis 1:2.jpg",
+      "sha256": "ab699b8c6fb5f31e277f2d27adf528ae784172f93b3c31e82afe9bcf81b7aa15",
+      "relevance": "Chest radiograph anchors the chronic dyspnea case diagnosed as idiopathic pulmonary fibrosis.",
+      "topics": [
+        "idiopathic pulmonary fibrosis",
+        "dyspnea",
+        "chest radiograph"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/reversible-obstruction-on-spirometry-in-patients-with-asthma.png",
+      "destination_filename": "reversible-obstruction-on-spirometry-in-patients-with-asthma.png",
+      "sha256": "a00e8e3cee8eb462ec74a6b56d2d75905c232f7383fb4617ca2f3cd9128b7229",
+      "relevance": "Flow-volume loops show bronchodilator reversibility in asthma.",
+      "topics": [
+        "asthma",
+        "spirometry",
+        "bronchodilator response"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/changes-in-fev1-with-smoking.png",
+      "destination_filename": "changes-in-fev1-with-smoking.png",
+      "sha256": "8c05d03ad5b124dbcf711eb67f9909b41d661a5aa70f8ed424fa42d9da36a34f",
+      "relevance": "Graph shows accelerated FEV1 decline with continued smoking and the benefit of cessation.",
+      "topics": [
+        "smoking",
+        "FEV1",
+        "smoking cessation"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/cigarette-smoke-inflammatory-pathway-copd.png",
+      "destination_filename": "cigarette-smoke-inflammatory-pathway-copd.png",
+      "sha256": "ee71031f474e88c9e31a82ad5ca102855c79ebe5f8f839ee54b3018ae394d197",
+      "relevance": "Mechanistic diagram links cigarette smoke to inflammation, mucus hypersecretion, fibrosis, and alveolar destruction.",
+      "topics": [
+        "cigarette smoke",
+        "COPD",
+        "lung injury"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P444_RSV_-_Respiratory_Syncytial_Virus.png",
+      "destination_filename": "P444_RSV_-_Respiratory_Syncytial_Virus.png",
+      "sha256": "db9ea742cefce5f09664ff86498ac20fb971228f05ac8444e2d1c5f6cd4620a4",
+      "relevance": "Illustrates RSV infection and bronchiolitis relevant to vaccine-preventable respiratory disease.",
+      "topics": [
+        "RSV",
+        "bronchiolitis",
+        "vaccination"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/classic-pertussis-presentation-and-management.png",
+      "destination_filename": "classic-pertussis-presentation-and-management.png",
+      "sha256": "7b4f692edc2f571d9110e04484c2b94261bd3fc96806cbf59aee3c272facbb3d",
+      "relevance": "Timeline shows catarrhal, paroxysmal, and convalescent stages of pertussis.",
+      "topics": [
+        "pertussis",
+        "cough",
+        "vaccination"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P570_Tuberculin_Skin_Testing_-_TST.png",
+      "destination_filename": "P570_Tuberculin_Skin_Testing_-_TST.png",
+      "sha256": "6dc164e4923e7d5fd154b69aebed463719a9e1144ca6b0017327f311b7157761",
+      "relevance": "Clinical photograph demonstrates positive induration after tuberculin skin testing.",
+      "topics": [
+        "tuberculin skin test",
+        "latent tuberculosis infection",
+        "induration"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/P552_Mycobacterium_Tuberculosis_-_Transmission.png",
+      "destination_filename": "P552_Mycobacterium_Tuberculosis_-_Transmission.png",
+      "sha256": "f9ea981256cf9467df331e34d50eac777d3865a8329d4535ce8df51ea710b0f3",
+      "relevance": "Diagram illustrates airborne transmission of Mycobacterium tuberculosis.",
+      "topics": [
+        "tuberculosis",
+        "airborne transmission",
+        "prevention"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/risk-factors-for-pulmonary-embolism.png",
+      "destination_filename": "risk-factors-for-pulmonary-embolism.png",
+      "sha256": "f0e92060c7aee6cb03fb4c6b2b0b78997706b35bffda083ba249e79707574aa1",
+      "relevance": "Virchow-triad table organizes stasis, hypercoagulability, and endothelial injury risk factors.",
+      "topics": [
+        "venous thromboembolism",
+        "pulmonary embolism",
+        "Virchow triad"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/Pulmonary embolism- thrombus formation and embolization.jpg",
+      "destination_filename": "Pulmonary embolism- thrombus formation and embolization.jpg",
+      "sha256": "e5bd865858c6c0f43c063d146bd9c0250107f0c4cf24fd1826cf0acd203197b4",
+      "relevance": "Diagram follows a lower-extremity thrombus through the right heart to the pulmonary circulation.",
+      "topics": [
+        "DVT",
+        "pulmonary embolism",
+        "embolization"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    },
+    {
+      "source_path": "/Users/chriselwell/Desktop/Pulm/Pulm Pictures/common-etiologies-of-chronic-cough.png",
+      "destination_filename": "common-etiologies-of-chronic-cough.png",
+      "sha256": "fbc56e1fef77369ff5f539fd336890832f0f32d90a1942cc44e232e6a238a344",
+      "relevance": "Concise differential organizes common upper-airway, lower-airway, parenchymal, and other causes of chronic cough.",
+      "topics": [
+        "chronic cough",
+        "differential diagnosis",
+        "respiratory symptoms"
+      ],
+      "review_status": "verified",
+      "source_url": "",
+      "attribution": "",
+      "action": "copied"
+    }
+  ]
+}
